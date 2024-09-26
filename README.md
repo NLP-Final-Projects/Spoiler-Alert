@@ -42,5 +42,5 @@ Scikit-learn
 
 # Assignments:
 
-Classification: Ali Nikkhah, Sarina Zahedi, Ramtin Khoshnevis
+Classification: Ali Nikkhah, Sarina Zahedi, Ramtin Khoshnevis\\
 Generation: Abolfazl Eshagh, Mobina Salimipanah, Parnian Razavi
