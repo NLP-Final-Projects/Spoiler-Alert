@@ -1,5 +1,7 @@
 # Spoiler-Alert
-codes for NLP course's project in Spring  2024.
+NLP course's project in Spring  2024. 
+
+Computer Engineering department, Sharif University of Technology.
 
 # Project Overview
 
