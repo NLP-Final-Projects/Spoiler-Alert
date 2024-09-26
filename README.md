@@ -34,13 +34,18 @@ These models were fine-tuned on the IMDB Spoiler dataset to generate concise, no
 To run the scripts, ensure you have the following installed:
 
 Python 3.8+
+
 Pytorch
+
 Transformers library (HuggingFace)
+
 TensorFlow
+
 Scikit-learn
 
 
 # Assignments:
 
-Classification: Ali Nikkhah, Sarina Zahedi, Ramtin Khoshnevis\\
+Classification: Ali Nikkhah, Sarina Zahedi, Ramtin Khoshnevis
+
 Generation: Abolfazl Eshagh, Mobina Salimipanah, Parnian Razavi
