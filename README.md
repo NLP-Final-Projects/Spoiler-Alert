@@ -30,7 +30,9 @@ LongT5
 These models were fine-tuned on the IMDB Spoiler dataset to generate concise, non-spoiler summaries while retaining the essence of the movie’s storyline.
 
 
+# Project Results
 
+In the generation task, our models—BART, LED, BigBird, and LongT5—successfully generated spoiler-free summaries and reviews, maintaining the plot’s essence without revealing key details. In the classification task, using LSTM, BERT, and RoBERTa, we accurately detected spoiler reviews, achieving high precision and recall. These results highlight the effectiveness of our approach in both tasks.
 
 # Requirements
 
