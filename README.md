@@ -1,7 +1,5 @@
 # Spoiler-Alert
-NLP course's project in Spring  2024. 
-
-Computer Engineering department, Sharif University of Technology.
+Final project for the NLP course in Spring 2024 at the Computer Engineering Department, Sharif University of Technology, under the supervision of Dr. Asgari.
 
 # Project Overview
 
@@ -30,6 +28,9 @@ BigBird,
 LongT5
 
 These models were fine-tuned on the IMDB Spoiler dataset to generate concise, non-spoiler summaries while retaining the essence of the movie’s storyline.
+
+
+
 
 # Requirements
 
