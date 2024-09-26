@@ -22,9 +22,9 @@ In this task, we generate spoiler-free summaries of movie plots using various tr
 
 We experimented with the following transformer models:
 
-BART
-LED
-BigBird
+BART, 
+LED, 
+BigBird, 
 LongT5
 
 These models were fine-tuned on the IMDB Spoiler dataset to generate concise, non-spoiler summaries while retaining the essence of the movie’s storyline.
